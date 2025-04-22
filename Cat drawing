@@ -1,13 +1,16 @@
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>My Cat Drawing</title>
-</head>
-<body>
+# Set up your Git repo (only if not already a Git repo)
+git init
 
-  <h1>This is my cat drawing!</h1>
-  <img src="9aba0b11-8be6-44ec-9cb1-f384fa4812c9.png" alt="Cat Drawing">
+# Add your GitHub repo as a remote (replace with your actual GitHub URL)
+git remote add origin https://github.com/your-username/your-repo-name.git
 
-</body>
-</html>
+# Add the image to staging
+git add 9aba0b11-8be6-44ec-9cb1-f384fa4812c9.png
+
+# Commit the file with a message
+git commit -m "Add image 9aba0b11-8be6-44ec-9cb1-f384fa4812c9.png"
+
+# Push to GitHub (to main branch)
+git push origin main
+
 
