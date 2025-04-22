@@ -1,9 +1,10 @@
 <html>
 <head>
-  <title>GitHub Image Example</title>
+  <title>Image from GitHub</title>
 </head>
 <body>
-  <h1>My GitHub Image</h1>
-  <img src="file:///C:/Users/HP/Downloads/Cat%20drawing.txt" alt="My Uploaded Image" width="300" />
+  <h1>My Uploaded Image</h1>
+  <img src="https://raw.githubusercontent.com/Ariyan-Ari/Ariyanpedia/main/9aba0b11-8be6-44ec-9cb1-f384fa4812c9.png" alt="My GitHub Image" width="400" />
 </body>
 </html>
+
