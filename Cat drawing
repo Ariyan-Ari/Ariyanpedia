@@ -1,16 +1,1 @@
-# Set up your Git repo (only if not already a Git repo)
-git init
-
-# Add your GitHub repo as a remote (replace with your actual GitHub URL)
-git remote add origin https://github.com/your-username/your-repo-name.git
-
-# Add the image to staging
-git add 9aba0b11-8be6-44ec-9cb1-f384fa4812c9.png
-
-# Commit the file with a message
-git commit -m "Add image 9aba0b11-8be6-44ec-9cb1-f384fa4812c9.png"
-
-# Push to GitHub (to main branch)
-git push origin main
-
-
+9aba0b11-8be6-44ec-9cb1-f384fa4812c9.png
