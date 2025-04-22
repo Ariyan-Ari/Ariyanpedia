@@ -1,10 +1,12 @@
+<!DOCTYPE html>
 <html>
 <head>
-  <title>Image from GitHub</title>
+  <title>My Drawing</title>
 </head>
 <body>
-  <h1>My Uploaded Image</h1>
-  <img src="https://raw.githubusercontent.com/Ariyan-Ari/Ariyanpedia/main/9aba0b11-8be6-44ec-9cb1-f384fa4812c9.png" alt="My GitHub Image" width="400" />
+  <h1>Check out my drawing!</h1>
+  <img src="https://raw.githubusercontent.com/Ariyan-Ari/Ariyanpedia/main/2025_04_22_05n_Kleki.png" alt="My Drawing" width="400" />
 </body>
 </html>
+
 
