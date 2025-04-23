@@ -1,9 +1,11 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <title>My GitHub Image</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Example</title>
 </head>
 <body>
-  <h1>My Drawing from GitHub</h1>
-  <img src="https://raw.githubusercontent.com/Ariyan-Ari/Ariyanpedia/main/images/2025_04_22_05n_Kleki.png" alt="My Drawing" width="400" />
+    <img src="path/to/your/image/5d418c53-163c-4886-b983-a541d4522ca3.png" alt="Description of Image" width="500" height="auto">
 </body>
 </html>
